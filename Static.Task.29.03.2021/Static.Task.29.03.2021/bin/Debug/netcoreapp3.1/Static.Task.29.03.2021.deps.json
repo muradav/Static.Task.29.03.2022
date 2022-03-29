@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Static.Task.29.03.2021/1.0.0": {
+        "runtime": {
+          "Static.Task.29.03.2021.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Static.Task.29.03.2021/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
