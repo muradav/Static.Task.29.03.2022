@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Desktop\\Development\\Static.Task.29.03.2021\\Static.Task.29.03.2021\\Static.Task.29.03.2021.csproj": {}
+    "C:\\Users\\HP\\Desktop\\Development\\Static.Task.29.03.2022\\Static.Task.29.03.2021\\Static.Task.29.03.2021\\Static.Task.29.03.2021.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Desktop\\Development\\Static.Task.29.03.2021\\Static.Task.29.03.2021\\Static.Task.29.03.2021.csproj": {
+    "C:\\Users\\HP\\Desktop\\Development\\Static.Task.29.03.2022\\Static.Task.29.03.2021\\Static.Task.29.03.2021\\Static.Task.29.03.2021.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\Development\\Static.Task.29.03.2021\\Static.Task.29.03.2021\\Static.Task.29.03.2021.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\Development\\Static.Task.29.03.2022\\Static.Task.29.03.2021\\Static.Task.29.03.2021\\Static.Task.29.03.2021.csproj",
         "projectName": "Static.Task.29.03.2021",
-        "projectPath": "C:\\Users\\HP\\Desktop\\Development\\Static.Task.29.03.2021\\Static.Task.29.03.2021\\Static.Task.29.03.2021.csproj",
+        "projectPath": "C:\\Users\\HP\\Desktop\\Development\\Static.Task.29.03.2022\\Static.Task.29.03.2021\\Static.Task.29.03.2021\\Static.Task.29.03.2021.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\Development\\Static.Task.29.03.2021\\Static.Task.29.03.2021\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\Development\\Static.Task.29.03.2022\\Static.Task.29.03.2021\\Static.Task.29.03.2021\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

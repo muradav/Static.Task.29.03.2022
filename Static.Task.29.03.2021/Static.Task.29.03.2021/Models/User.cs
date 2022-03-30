@@ -47,11 +47,12 @@ namespace Static.Task._29._03._2021.Models
         {
             Email = email;
             Password = password;
+            
         }
         public User()
         {
             _id++;
-            ID=_id;
+            ID = _id;   
             
         }
 
